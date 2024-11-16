@@ -1,0 +1,9 @@
+streamlit
+openai
+pandas
+langchain
+serpapi
+python-dotenv
+gspread
+oauth2client
+
